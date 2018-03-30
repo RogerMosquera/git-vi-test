@@ -24,6 +24,7 @@ shall I stay
 would it be sin
 cause' I can't help falling in love with you
 
+<<<<<<< HEAD
 --//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
 
 Letra Back for good by Take That
@@ -37,6 +38,18 @@ got a first of pure emotion,
 got a head of shattered dreams,
 gotta leave it,
 gotta leave it all behind now
+
+--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
+
+With or without you by U2
+See the stone set in your eyes
+see the thorn twist in your side
+I wait for you
+Sleight of hand and twist of fate
+on a bed of nails she makes me wait
+and I wait without you
+with or without you
+with or without you
 
 Se pidio hacer un hotfix, donde se debia separar cada letra de canción por artista, guiones y slash.
 
