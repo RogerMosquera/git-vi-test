@@ -1,4 +1,7 @@
 Hola. Vamos a hacer una preuba con un commit y hacer el proceso de reset.
+
+--//--//--//--//--//--//--//--//--//--//--//--//--//--/7--//--//
+
 Perfect by Ed Sheeran
 I found I love for me
 darling, just dive right in and follow my lead
@@ -10,6 +13,8 @@ when we fell in love
 not knowing what it was
 I will not give you up this time
 
+--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
+
 Letra Can't help falling in love' by UB40
 Wise, men say, only fools rush it
 but I can't help falling in love with you
@@ -19,7 +24,19 @@ shall I stay
 would it be sin
 cause' I can't help falling in love with you
 
+--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
 
+Letra Back for good by Take That
+I guess now it's time
+for me give to up,
+I feel it's time,
+got a picture of you beside me,
+got you lipstick mark still on your coffe cup,
+oh yeah,
+got a first of pure emotion,
+got a head of shattered dreams,
+gotta leave it,
+gotta leave it all behind now
 
-
+Se pidio hacer un hotfix, donde se debia separar cada letra de canción por artista, guiones y slash.
 
