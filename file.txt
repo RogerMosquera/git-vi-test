@@ -51,5 +51,17 @@ and I wait without you
 with or without you
 with or without you
 
+--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
+
+'Stayin' Alive' by Bee Gees
+well, you can tell by the way I use my walk,
+I'm a woman's man: no time to talk
+music loud and women warm, I've been kicked around
+since I was born.
+And now it's all right. It's OK
+and you may look the other way
+we can try to understand
+the New York time's effect on man
+
 Se pidio hacer un hotfix, donde se debia separar cada letra de canción por artista, guiones y slash.
 
