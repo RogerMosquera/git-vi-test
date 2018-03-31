@@ -51,5 +51,32 @@ and I wait without you
 with or without you
 with or without you
 
+<<<<<<< HEAD
 Se pidio hacer un hotfix, donde se debia separar cada letra de canción por artista, guiones y slash.
 
+=======
+--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
+
+'Stayin' Alive' by Bee Gees
+well, you can tell by the way I use my walk,
+I'm a woman's man: no time to talk
+music loud and women warm, I've been kicked around
+since I was born.
+And now it's all right. It's OK
+and you may look the other way
+we can try to understand
+the New York time's effect on man
+
+--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
+Always on my mind by Elvis Presley
+Maybe I didn't treat you
+quite as good as I should have
+maybe I didn't love you
+quite as often as I could have
+little things I should have said and done
+I just never took the time
+you were always on my mind
+you were always on my mind
+
+List songs for Roger 
+>>>>>>> 26aa82a... Se hizo hotfix agregando para quien era la lista
