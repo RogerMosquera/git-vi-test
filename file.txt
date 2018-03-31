@@ -74,5 +74,4 @@ I just never took the time
 you were always on my mind
 you were always on my mind
 
-Se pidio hacer un hotfix, donde se debia separar cada letra de canción por artista, guiones y slash.
-
+List songs for Roger 
