@@ -62,7 +62,6 @@ and you may look the other way
 we can try to understand
 the New York time's effect on man
 
-<<<<<<< HEAD
 --//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
 Always on my mind by Elvis Presley
 Maybe I didn't treat you
@@ -74,30 +73,4 @@ I just never took the time
 you were always on my mind
 you were always on my mind
 
-=======
 
---//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
-
-'Stayin' Alive' by Bee Gees
-well, you can tell by the way I use my walk,
-I'm a woman's man: no time to talk
-music loud and women warm, I've been kicked around
-since I was born.
-And now it's all right. It's OK
-and you may look the other way
-we can try to understand
-the New York time's effect on man
-
---//--//--//--//--//--//--//--//--//--//--//--//--//--//--//--//
-Always on my mind by Elvis Presley
-Maybe I didn't treat you
-quite as good as I should have
-maybe I didn't love you
-quite as often as I could have
-little things I should have said and done
-I just never took the time
-you were always on my mind
-you were always on my mind
-
->>>>>>> 20eefd9290ee8f292fcce86d5f460b41d6ebf651
-List songs for Roger 
